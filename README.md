@@ -1,4 +1,4 @@
-# Saikyo no Mahjong 3D — HD Patch
+# Saikyo no Mahjong 3D HD Patch
 
 A resolution upscale patch for **Saikyo no Mahjong 3D**. Doubles the game's internal render resolution from **1024×768** to **2048×1536** (2× native), with all gameplay and interaction paths scaling correctly.
 
