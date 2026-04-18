@@ -32,7 +32,8 @@ Nothing else in the game is changed. Saves, assets, input bindings, and game log
 3. Point it at your original `Saikyo no Mahjong 3D.exe` as the source file.
 4. Point it at the `.xdelta` file from the release.
 5. Apply. Save the output as something like `Saikyo no Mahjong 3D_HD.exe`.
-6. Run the patched exe. Done.
+6. *(Optional)*. Install [dgVoodoo2](https://dege.freeweb.hu/dgVoodoo2/) to further improve the results. You can use [these settings](/dgvoodoo2/settings.png) as a starting point.
+7. Run the patched exe. Done.
 
 If the checksums don't match and the patcher refuses to apply, you have a different build of the game than the one this patch was made from, but most probably will work with all the versions floating around Internet.
 
